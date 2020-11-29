@@ -2,7 +2,7 @@
 0,Hartsfield–Jackson Atlanta International Airport,Atlanta,United States,107394029,-84.3902644,33.7489924
 1,Los Angeles International Airport,Los Angeles,United States,87534384,-118.242766,34.0536909
 2,O'Hare International Airport,Chicago,United States,83245472,-87.6244212,41.8755616
-3,Dallas/Fort Worth International Airport,Dallas-Fort Worth,United States,69112607,-97.3451271,32.7408759
+3,Dallas/Fort Worth International Airport,Dallas-Fort Worth,United States,69112607,-97.3135971,32.7476308
 4,Denver International Airport,Denver,United States,64494613,-104.9848623,39.7392364
 5,John F. Kennedy International Airport,New York City,United States,61623756,-74.0060152,40.7127281
 6,San Francisco International Airport,San Francisco,United States,57738840,-122.4199061,37.7790262
@@ -27,8 +27,8 @@
 25,Salt Lake City International Airport,Salt Lake City,United States,25554244,-111.8867975,40.7596198
 26,Cancún International Airport,Cancún,Mexico,25202016,-86.8510468,21.1617854
 27,San Diego International Airport,San Diego,United States,24238300,-117.1627728,32.7174202
-28,Dulles International Airport,Washington,United States,23905282,-77.0365581,38.8949924
-29,Ronald Reagan Washington National Airport,Washington,United States,23430564,-77.0365581,38.8949924
+28,Dulles International Airport,Washington,United States,23905282,-76.9879976,38.8937936
+29,Ronald Reagan Washington National Airport,Washington,United States,23430564,-76.9879976,38.8937936
 30,Midway International Airport,Chicago,United States,22027737,-87.6244212,41.8755616
 31,Tampa International Airport,Tampa,United States,21289390,-82.458444,27.9477595
 32,Daniel K. Inouye International Airport,Honolulu,United States,20866873,-157.8556764,21.304547
