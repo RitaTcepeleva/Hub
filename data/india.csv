@@ -1,0 +1,50 @@
+,name,city,country,passengers,lng,lat
+0,Indira Gandhi International Airport,Delhi,Delhi,0.20079045144294716,77.2219388,28.6517178
+1,Chhatrapati Shivaji Maharaj International Airport,Mumbai,Maharashtra,0.13686162537428617,72.8773928,19.0759899
+2,Kempegowda International Airport,Bengaluru,Karnataka,0.09655000640088218,77.5912997,12.9791198
+3,Chennai International Airport,Chennai,Tamil Nadu,0.06643206043924513,80.270186,13.0836939
+4,Netaji Subhas Chandra Bose International Airport,Kolkata,West Bengal,0.06568222235431032,88.3638815,22.5726723
+5,Rajiv Gandhi International Airport,Hyderabad,Telangana,0.06459769282246224,78.4610647,17.3887859
+6,Sardar Vallabhbhai Patel International Airport,Ahmedabad,Gujarat,0.034109981759939685,72.5797068,23.0216238
+7,Cochin International Airport,Kochi,Kerala,0.028713895919456927,76.2674136,9.931308
+8,Goa International Airport,Dabolim,Goa,0.024930577600278912,73.8514049,15.3865713
+9,Pune Airport,Pune,Maharashtra,0.024123152609170917,73.8544541,18.521428
+10,Lokpriya Gopinath Bordoloi International Airport,Guwahati,Assam,0.016282126386277147,91.753943,26.1805978
+11,Chaudhary Charan Singh International Airport,Lucknow,Uttar Pradesh,0.016211442054028934,80.9346001,26.8381
+12,Jaipur International Airport,Jaipur,Rajasthan,0.015011503015834511,75.8189817,26.9154576
+13,Jaya Prakash Narayan Airport,Patna,Bihar,0.01350247665614275,85.1235252,25.6093239
+14,Trivandrum International Airport,Thiruvananthapuram,Kerala,0.011692788289585976,76.9360573,8.5241122
+15,Biju Patnaik International Airport,Bhubaneswar,Odisha,0.010956029729916068,85.8435592,20.2667774
+16,Calicut International Airport,Kozhikode,Kerala,0.009636334271983196,75.7788735,11.2586082
+17,Bagdogra International Airport,Siliguri,West Bengal,0.009596743646922678,88.4309916,26.7164127
+18,Dr. Babasaheb Ambedkar International Airport,Nagpur,Maharashtra,0.009134031572929776,79.0820556,21.1498134
+19,Lal Bahadur Shastri Airport,Varanasi,Uttar Pradesh,0.008982334140991035,83.0076292,25.3356491
+20,Devi Ahilyabai Holkar International Airport,Indore,Madhya Pradesh,0.008708657605389953,75.8681996,22.7203616
+21,Coimbatore International Airport,Coimbatore,Tamil Nadu,0.008481508258772953,76.9628425,11.0018115
+22,Sheikh ul-Alam International Airport,Srinagar,Jammu and Kashmir (union territory),0.008416137483663608,74.80298,34.08842
+23,Visakhapatnam International Airport,Visakhapatnam,Andhra Pradesh,0.00799952297921178,83.3012842,17.7231276
+24,Birsa Munda Airport,Ranchi,Jharkhand,0.007414793016467931,85.3250132,23.3700354
+25,Sri Guru Ram Dass Jee International Airport,Amritsar,Punjab,0.007332216579359791,74.8736788,31.6343083
+26,Chandigarh International Airport,Chandigarh,Chandigarh,0.007295182786678841,76.7797143,30.7334421
+27,Swami Vivekananda Airport,Raipur,Chhattisgarh,0.006323213548898827,81.6336833,21.2379469
+28,Mangalore International Airport,Mangalore,Karnataka,0.005597863772215461,74.8430082,12.8698101
+29,Tiruchirappalli International Airport,Tiruchirappalli,Tamil Nadu,0.004810818853435151,78.6870296,10.804973
+30,Kannur International Airport,Kannur,Kerala,0.0047246204857449865,75.3738043,11.8762254
+31,Surat International Airport,Surat,Gujarat,0.004521616348518701,72.8081281,21.1864607
+32,Agartala Airport,Agartala,Tripura,0.004494401150191493,91.2823821,23.8312377
+33,Jammu Airport,Jammu,Jammu and Kashmir (union territory),0.004342238297189494,74.86911,32.73569
+34,Madurai Airport,Madurai,Tamil Nadu,0.004243497428538183,78.1140983,9.9261153
+35,Raja Bhoj Airport,Bhopal,Madhya Pradesh,0.003971957056278724,77.401989,23.2584857
+36,Jolly Grant Airport,Dehradun,Uttarakhand,0.003955873178381117,78.0436813,30.3255646
+37,Imphal Airport,Imphal,Manipur,0.0038363226179591115,93.9369998,24.8006088
+38,Maharana Pratap Airport,Udaipur,Rajasthan,0.0037281927743970655,73.6862571,24.578721
+39,Vijayawada International Airport,Vijayawada,Andhra Pradesh,0.0033730586023206772,80.6185102,16.5087586
+40,Vadodara Airport,Vadodara,Gujarat,0.0032939310546300175,73.1942567,22.2973142
+41,Tirupati Airport,Tirupati,Andhra Pradesh,0.00249114834028119,79.4231711,13.6316368
+42,Leh Kushok Bakula Rimpochee Airport,Leh,Ladakh,0.002276511659941795,77.5848133,34.1642029
+43,Gorakhpur Airport,Gorakhpur,Uttar Pradesh,0.001986103833810239,83.3645828,26.6713286
+44,Shirdi Airport,Shirdi,Maharashtra,0.0016974980225646335,74.4754386,19.7668121
+45,Jodhpur Airport,Jodhpur,Rajasthan,0.0016967461885393697,73.0351433,26.2967719
+46,Dibrugarh Airport,Dibrugarh,Assam,0.0015871842801672977,94.9019447,27.4844597
+47,Hubli Airport,Hubli,Karnataka,0.0014177978643563785,75.1379848,15.3518378
+48,Allahabad Airport,Prayagraj,Uttar Pradesh,0.001235346840622324,81.8338005,25.4381302
