@@ -1,0 +1,124 @@
+,name,city,country,passengers,distance
+0,Hartsfield–Jackson Atlanta International Airport,Atlanta,United States,0.06310217693173799,5446.626612536325
+1,Los Angeles International Airport,Los Angeles,United States,0.05143312191759464,6332.070177116138
+2,O'Hare International Airport,Chicago,United States,0.048913059243824816,4666.383896386637
+3,Dallas/Fort Worth International Airport,Dallas-Fort Worth,United States,0.04060892393866398,5892.9430101162325
+4,Denver International Airport,Denver,United States,0.03789550050934367,5364.38361895799
+5,John F. Kennedy International Airport,New York City,United States,0.03620865322326487,4450.74898431002
+6,San Francisco International Airport,San Francisco,United States,0.0339259689895172,6050.892418972803
+7,McCarran International Airport,Las Vegas,United States,0.02929836562462123,6022.915566256986
+8,Seattle–Tacoma International Airport,Seattle-Tacoma,United States,0.02929039221540158,5032.090392791207
+9,Toronto Pearson International Airport,Toronto,Canada,0.029089381217548976,4267.167647821812
+10,Orlando International Airport,Orlando,United States,0.028025403498001842,5931.779126234868
+11,Charlotte Douglas International Airport,Charlotte,United States,0.02729152727045297,5200.4175690505035
+12,Newark Liberty International Airport,Newark,United States,0.026941211981551662,4452.143059408997
+13,Miami International Airport,Miami,United States,0.02646696629281325,6202.334301361779
+14,Phoenix Sky Harbor International Airport,Phoenix,United States,0.026407840848735414,6225.925215364047
+15,George Bush Intercontinental Airport,Houston,United States,0.0257402678962907,6159.079421686041
+16,Logan International Airport,Boston,United States,0.024099127576297903,4207.522246185044
+17,Minneapolis–Saint Paul International Airport,Minneapolis-Saint Paul,United States,0.0223909906412688,4492.609754717046
+18,Fort Lauderdale-Hollywood International Airport,Fort Lauderdale,United States,0.02113122077579898,6163.528371582427
+19,Detroit Metropolitan Airport,Detroit,United States,0.020704232666774482,4499.327309973367
+20,Philadelphia International Airport ,Philadelphia,United States,0.01862143951061614,4558.905695227801
+21,LaGuardia Airport,New York City,United States,0.017682562055147556,4450.74898431002
+22,Baltimore–Washington International Airport,Baltimore-Washington,United States,0.01594132753957803,4663.719101276166
+23,Vancouver International Airport,Vancouver,Canada,0.015286131880074503,4864.81780244417
+24,Salt Lake City International Airport,Salt Lake City,United States,0.015015065932993387,5448.599359100846
+25,San Diego International Airport,San Diego,United States,0.01424184854005752,6444.29072435228
+26,Dulles International Airport,Washington,United States,0.014046175084529992,4715.123784785667
+27,Ronald Reagan Washington National Airport,Washington,United States,0.013767242079523906,4715.123784785667
+28,Midway International Airport,Chicago,United States,0.012942974302414815,4666.383896386637
+29,Tampa International Airport,Tampa,United States,0.012509139167772292,6021.903212302873
+30,Portland International Airport,Portland,United States,0.011682653290456558,5242.887598272505
+31,Montréal-Trudeau International Airport,Montréal,Canada,0.01141395468794036,3931.9965903795746
+32,Calgary International Airport,Calgary,Canada,0.010190570479502715,4438.734912884863
+33,Dallas Love Field,Dallas,United States,0.009535863095832755,5875.878457958335
+34,Nashville International Airport,Nashville,United States,0.009398886153747076,5249.753797399663
+35,Austin–Bergstrom International Airport,Austin,United States,0.009295403993722268,6168.465613081122
+36,St. Louis Lambert International Airport,St. Louis,United States,0.009185335691918312,5077.788228352792
+37,William P. Hobby Airport,Houston,United States,0.008506028842486394,6159.079421686041
+38,San Jose International Airport,San Jose,United States,0.008413675375948698,6083.487992187101
+39,Oakland International Airport,Oakland,United States,0.007987658530405409,6044.197461431153
+40,Louis Armstrong New Orleans International Airport,New Orleans,United States,0.0077106228089933,5998.630966550369
+41,Raleigh–Durham International Airport,Raleigh,United States,0.0075219726519478985,5087.8477474235215
+42,Sacramento International Airport,Sacramento,United States,0.007080741695503777,5941.083966610483
+43,Kansas City International Airport,Kansas City,United States,0.006963271108559871,5145.278252917383
+44,John Wayne Airport,Orange County,United States,0.006265935070587373,6354.0812097309035
+45,Indira Gandhi International Airport,Delhi,Delhi,0.2007904514429472,7367.811522367367
+46,Chhatrapati Shivaji Maharaj International Airport,Mumbai,Maharashtra,0.13686162537428614,8283.248910359713
+47,Kempegowda International Airport,Bengaluru,Karnataka,0.09655000640088217,9064.688855711622
+48,Chennai International Airport,Chennai,Tamil Nadu,0.06643206043924513,9123.01394330633
+49,Netaji Subhas Chandra Bose International Airport,Kolkata,West Bengal,0.06568222235431033,8297.344408708233
+50,Rajiv Gandhi International Airport,Hyderabad,Telangana,0.06459769282246224,8611.674818532141
+51,Sardar Vallabhbhai Patel International Airport,Ahmedabad,Gujarat,0.03410998175993968,7851.250150180356
+52,Cochin International Airport,Kochi,Kerala,0.028713895919456923,9358.630404439265
+53,Goa International Airport,Dabolim,Goa,0.024930577600278912,8706.319927732535
+54,Pune Airport,Pune,Maharashtra,0.02412315260917092,8368.890484999873
+55,Lokpriya Gopinath Bordoloi International Airport,Guwahati,Assam,0.016282126386277147,7984.875252259432
+56,Chaudhary Charan Singh International Airport,Lucknow,Uttar Pradesh,0.016211442054028934,7656.4870341246915
+57,Jaipur International Airport,Jaipur,Rajasthan,0.015011503015834513,7518.091626567349
+58,Jaya Prakash Narayan Airport,Patna,Bihar,0.01350247665614275,7891.79710396342
+59,Trivandrum International Airport,Thiruvananthapuram,Kerala,0.011692788289585976,9528.18916057897
+60,Biju Patnaik International Airport,Bhubaneswar,Odisha,0.01095602972991607,8486.421510110089
+61,Calicut International Airport,Kozhikode,Kerala,0.009636334271983195,9202.495700566775
+62,Bagdogra International Airport,Siliguri,West Bengal,0.009596743646922678,7850.740893369018
+63,Dr. Babasaheb Ambedkar International Airport,Nagpur,Maharashtra,0.009134031572929777,8222.22946599789
+64,Lal Bahadur Shastri Airport,Varanasi,Uttar Pradesh,0.008982334140991035,7869.712635977421
+65,Devi Ahilyabai Holkar International Airport,Indore,Madhya Pradesh,0.008708657605389953,7970.125123388674
+66,Coimbatore International Airport,Coimbatore,Tamil Nadu,0.008481508258772953,9261.51628415231
+67,Sheikh ul-Alam International Airport,Srinagar,Jammu and Kashmir (union territory),0.008416137483663608,6723.779756518982
+68,Visakhapatnam International Airport,Visakhapatnam,Andhra Pradesh,0.00799952297921178,8698.726953926098
+69,Birsa Munda Airport,Ranchi,Jharkhand,0.0074147930164679314,8138.445951535877
+70,Sri Guru Ram Dass Jee International Airport,Amritsar,Punjab,0.007332216579359791,6987.930273164133
+71,Chandigarh International Airport,Chandigarh,Chandigarh,0.007295182786678841,7133.27630490373
+72,Swami Vivekananda Airport,Raipur,Chhattisgarh,0.006323213548898828,8277.450567520695
+73,Mangalore International Airport,Mangalore,Karnataka,0.005597863772215461,9003.90542650238
+74,Tiruchirappalli International Airport,Tiruchirappalli,Tamil Nadu,0.00481081885343515,9328.015683239668
+75,Kannur International Airport,Kannur,Kerala,0.004724620485744986,9125.136778717455
+76,Surat International Airport,Surat,Gujarat,0.004521616348518701,8054.481728940536
+77,Agartala Airport,Agartala,Tripura,0.004494401150191493,8228.74483604983
+78,Jammu Airport,Jammu,Jammu and Kashmir (union territory),0.0043422382971894935,6870.019377984723
+79,Madurai Airport,Madurai,Tamil Nadu,0.004243497428538183,9407.900880510646
+80,Raja Bhoj Airport,Bhopal,Madhya Pradesh,0.003971957056278724,7952.007639682359
+81,Jolly Grant Airport,Dehradun,Uttarakhand,0.0039558731783811175,7209.117983164943
+82,Imphal Airport,Imphal,Manipur,0.003836322617959112,8183.113110289242
+83,Maharana Pratap Airport,Udaipur,Rajasthan,0.0037281927743970655,7713.289013199919
+84,Vijayawada International Airport,Vijayawada,Andhra Pradesh,0.003373058602320677,8762.105462658039
+85,Vadodara Airport,Vadodara,Gujarat,0.003293931054630017,7945.344766935124
+86,Tirupati Airport,Tirupati,Andhra Pradesh,0.00249114834028119,9041.975033661496
+87,Leh Kushok Bakula Rimpochee Airport,Leh,Ladakh,0.002276511659941795,6786.361878536875
+88,Gorakhpur Airport,Gorakhpur,Uttar Pradesh,0.001986103833810239,7734.502387952116
+89,Shirdi Airport,Shirdi,Maharashtra,0.0016974980225646335,8251.310807396387
+90,Jodhpur Airport,Jodhpur,Rajasthan,0.0016967461885393695,7511.792709842405
+91,Dibrugarh Airport,Dibrugarh,Assam,0.0015871842801672975,7912.919995027124
+92,Hubli Airport,Hubli,Karnataka,0.0014177978643563785,8744.23174726382
+93,Allahabad Airport,Prayagraj,Uttar Pradesh,0.001235346840622324,7829.628412891012
+94,Jinnah International Airport,Karachi,KHI,0.3107855476992559,7504.2788723827525
+95,Islamabad International Airport,Islamabad-Rawalpindi,ISB,0.25716271745035674,6736.400161211634
+96,Allama Iqbal International Airport,Lahore,LHE,0.22462568072829803,6983.288463391785
+97,Bacha Khan International Airport,Peshawar,PEW,0.07014755658186599,6648.784446955556
+98,Multan International Airport,Multan,MUX,0.049924810976897015,7050.551277828159
+99,Sialkot International Airport,Sialkot,SKT,0.032519777764659856,6884.68198107287
+100,Faisalabad International Airport,Faisalabad,LYP,0.0180355604558766,6967.881003395928
+101,Quetta International Airport,Quetta,UET,0.018319958058232225,6934.241283575488
+102,Sukkur Airport,Sukkur,SKZ,0.004682029973556275,7246.478820181274
+103,Shaikh Zayed International Airport ,Rahim Yar Khan,RYK,0.0026999012487481005,7215.426504557827
+104,Skardu Airport ,Skardu,KDU,0.0024602768837026423,6609.223687295935
+105,Turbat Airport ,Turbat,TUK,0.0022325086720007678,7275.999136366215
+106,Gilgit Airport ,Gilgit,GIL,0.002258021913373041,6516.439058983634
+107,Bahawalpur Airport ,Bahawalpur,BHV,0.00119472005971099,7150.23903714855
+108,Gwadar International Airport ,Gwadar,GWD,0.0013045770755021856,7336.889085420756
+109,Moenjodaro Airport ,Mohenjodaro,MJD,0.0004203681710807909,7271.5291617550365
+110,Dera Ghazi Khan International Airport ,Dera Ghazi Khan,DEA,0.00036043706683768883,7045.837907497176
+111,Chitral Airport ,Chitral,CJL,0.00027504274718578945,6454.323537716659
+112,Zhob Airport ,Zhob,PZH,9.179764297670492e-05,6875.646485447374
+113,Panjgur Airport ,Panjgur,PJG,0.00027864461655599255,7202.119518688333
+114,Dalbandin Airport ,Dalbadin,DBA,0.00022006421332671655,7004.248926223991
+115,Barisal Airport,Barisal,BZL,0.011647199462057629,8317.51658114954
+116,Shah Amanat International Airport,Chittagong,CGP,0.42027320499090975,8411.971962664626
+117,Cox's Bazar Airport,Cox's Bazar,CXB,0.1343030408686773,8501.904712892509
+118,Shahjalal International Airport,Dhaka,DAC,0.12899160710283167,8207.08311259645
+119,Jessore Airport,Jessore,JSR,0.07329664035065872,8249.859430087392
+120,Shah Makhdum Airport,Rajshahi,RJH,0.02078325405324633,8101.362340021334
+121,Saidpur Airport,Saidpur,SPD,0.0779119866510597,7965.512655784799
+122,Osmani International Airport,Sylhet,ZYL,0.13279306652055886,8119.1100560662135

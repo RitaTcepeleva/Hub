@@ -8,6 +8,9 @@ import json
 
 from hub.geodesic import *
 from hub.metrics import *
+from geo import *
+
+hub = Point(75.53782, -29.131544)
 
 '''data_path = Path(os.getcwd()).parent / "data"
 
